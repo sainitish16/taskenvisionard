@@ -1,4 +1,4 @@
-#Clone the application
+# Clone the application
 ### `npm install`
 
 then,

@@ -82,7 +82,7 @@ export default class EditProduct extends React.Component {
             >
               <div className="row">
                 <div className="col-md-6 col-sm-12">
-                  Title
+                  
                   <input
                     type="text"
                     name="title"
